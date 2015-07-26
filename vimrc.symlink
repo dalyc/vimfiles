@@ -7,11 +7,8 @@ call vundle#begin()
 
 Plugin 'tpope/vim-sensible'
 Plugin 'rstacruz/vim-opinion'
-Plugin 'wincent/command-t'
 Plugin 'vim-scripts/closetag.vim'
 Plugin 'scrooloose/nerdtree'
-Plugin 'Shougo/neocomplcache.vim'
-Plugin 'fatih/vim-go'
 
 call vundle#end()
 filetype plugin indent on
